@@ -1,4 +1,4 @@
-## cs5293sp23-sagae
+## cs5293sp23-Project1
 
 ## Name: Sagar Singh
 
@@ -184,4 +184,13 @@ Create statistics on the redactions made using the chosen redaction kinds, and t
 If no files matched the pattern, print a message to the terminal.
 
 ## How to run# cs5293sp23-project1
+![Screen_Recording_2023-04-04_at_9_24_15_PM_AdobeExpress](https://user-images.githubusercontent.com/124123388/230703789-2bf4ca11-341d-48b5-8678-cc6e77bab252.gif)
+
+
+
+
+
+
+
+
 # cs5293sp23-project1
